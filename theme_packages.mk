@@ -22,6 +22,14 @@ PRODUCT_PACKAGES += \
     SettingsIntelligenceBlueNight \
     SystemBlueNight
 
+# QS tile styles
+PRODUCT_PACKAGES += \
+    QStilesSquare \
+    QStilesRoundedSquare \
+    QStilesSquircle \
+    QStilesTearDrop \
+    QStilesDoubleCircle
+
 # Accents
 PRODUCT_PACKAGES += \
     Amber \
