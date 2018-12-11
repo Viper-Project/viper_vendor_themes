@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- General -->
+    <color name="black">#1C2632</color>
+
+    <!-- Immersive cling -->
+    <color name="immersive_cling_bg_color">@*android:color/black</color>
+    <color name="immersive_cling_text_color">@android:color/white</color>
+    <color name="immersive_cling_button_text_color">@android:color/white</color>
+
+    <!-- Resolver -->
+    <color name="resolver_list_bg">@*android:color/black</color>
+    <color name="chooser_service_row_background_color">@*android:color/black</color>
+
+    <!-- Autofill save dialog -->
+    <color name="autofill_save_title_color">@android:color/black</color>
+    <color name="autofill_autofill_save_custom_subtitle_color">@android:color/black</color>
+
+    <!-- Toast text and bg colors -->
+    <color name="toast_bg_color">@*android:color/black</color>
+    <color name="toast_text_color">@android:color/white</color>
+
+    <!-- Two target preference vertical divider color -->
+    <color name="list_divider_dark">#64eeeeee</color>
+
+    <!-- Venom bottom navigation -->
+    <color name="BottomBarBackground">@*android:color/black</color>
+    <color name="bottom_nav_icon_active">@*android:color/accent_device_default_light</color>
+    <color name="bottom_nav_icon_inactive">@*android:color/accent_device_default_light_alpha</color>
+    <color name="about_text_color_primary">#ffffff</color>
+    <color name="about_text_color_secondary">#eeeeee</color>
+    <color name="about_civ_border_color">#40212121</color>
+    <color name="bottom_trans_background">@*android:color/black</color>
+
+    <!-- Shutdown/reboot dialog -->
+    <color name="shutdown_background">@*android:color/black</color>
+    <color name="shutdown_primary_text">@android:color/white</color>
+
+</resources>
