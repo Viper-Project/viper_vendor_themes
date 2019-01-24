@@ -22,6 +22,13 @@ PRODUCT_PACKAGES += \
     SettingsIntelligenceBlueNight \
     SystemBlueNight
 
+# Themes BlackSupreme
+PRODUCT_PACKAGES += \
+    GBoardBlackSupreme \
+    SettingsBlackSupreme \
+    SettingsIntelligenceBlackSupreme \
+    SystemBlackSupreme
+
 # QS tile styles
 PRODUCT_PACKAGES += \
     QStilesSquare \
