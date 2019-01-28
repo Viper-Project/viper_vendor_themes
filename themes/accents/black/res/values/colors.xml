@@ -23,7 +23,6 @@
     <color name="accent_device_default_light">#FF000000</color>
     <color name="accent_device_default_light_alpha">#66000000</color>
     <color name="accent_device_default_dark">#FF000000</color>
-    <color name="venom_icon">@android:color/white</color>
 
     <!-- Fastscroller -->
     <color name="fastscroller_text_color">#FFFFFFFF</color>

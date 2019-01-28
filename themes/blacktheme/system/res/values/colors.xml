@@ -29,6 +29,8 @@
     <color name="about_text_color_secondary">#eeeeee</color>
     <color name="about_civ_border_color">#40212121</color>
     <color name="bottom_trans_background">@*android:color/black</color>
+    <color name="venom_cat_background">#33CFCFCF</color>
+    <color name="venom_cat_fab_background">@*android:color/black</color>
 
     <!-- Shutdown/reboot dialog -->
     <color name="shutdown_background">@*android:color/black</color>
