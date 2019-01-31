@@ -6,28 +6,32 @@ PRODUCT_PACKAGES += \
     GBoardDark \
     SettingsDark \
     SettingsIntelligenceDark \
-    SystemDark
+    SystemDark \
+    UpadaterDark
 
 # Themes Black
 PRODUCT_PACKAGES += \
     GBoardBlack \
     SettingsBlack \
     SettingsIntelligenceBlack \
-    SystemBlack
+    SystemBlack \
+    UpadaterBlack
 
 # Themes BlueNight
 PRODUCT_PACKAGES += \
     GBoardBlueNight \
     SettingsBlueNight \
     SettingsIntelligenceBlueNight \
-    SystemBlueNight
+    SystemBlueNight \
+    UpadaterBlueNight
 
 # Themes BlackSupreme
 PRODUCT_PACKAGES += \
     GBoardBlackSupreme \
     SettingsBlackSupreme \
     SettingsIntelligenceBlackSupreme \
-    SystemBlackSupreme
+    SystemBlackSupreme \
+    UpadaterBlackSupreme
 
 # QS tile styles
 PRODUCT_PACKAGES += \
