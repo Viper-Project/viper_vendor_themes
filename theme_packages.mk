@@ -41,6 +41,10 @@ PRODUCT_PACKAGES += \
     QStilesTearDrop \
     QStilesDoubleCircle
 
+# Fonts
+PRODUCT_PACKAGES += \
+    ViperFonts
+
 # Accents
 PRODUCT_PACKAGES += \
     Amber \
