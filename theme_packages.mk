@@ -3,7 +3,8 @@ include vendor/themes/themes/Android.mk
 
 # Themes Light
 PRODUCT_PACKAGES += \
-    GBoardLight
+    GBoardLight \
+    WellbeingLight
 
 # Themes Dark
 PRODUCT_PACKAGES += \
@@ -11,7 +12,8 @@ PRODUCT_PACKAGES += \
     SettingsDark \
     SettingsIntelligenceDark \
     SystemDark \
-    UpadaterDark
+    UpadaterDark \
+    WellbeingDark
 
 # Themes Black
 PRODUCT_PACKAGES += \
@@ -19,7 +21,8 @@ PRODUCT_PACKAGES += \
     SettingsBlack \
     SettingsIntelligenceBlack \
     SystemBlack \
-    UpadaterBlack
+    UpadaterBlack \
+    WellbeingBlack
 
 # Themes BlueNight
 PRODUCT_PACKAGES += \
@@ -27,7 +30,8 @@ PRODUCT_PACKAGES += \
     SettingsBlueNight \
     SettingsIntelligenceBlueNight \
     SystemBlueNight \
-    UpadaterBlueNight
+    UpadaterBlueNight \
+    WellbeingBlueNight
 
 # Themes BlackSupreme
 PRODUCT_PACKAGES += \
@@ -35,7 +39,8 @@ PRODUCT_PACKAGES += \
     SettingsBlackSupreme \
     SettingsIntelligenceBlackSupreme \
     SystemBlackSupreme \
-    UpadaterBlackSupreme
+    UpadaterBlackSupreme \
+    WellbeingBlackSupreme
 
 # QS tile styles
 PRODUCT_PACKAGES += \
