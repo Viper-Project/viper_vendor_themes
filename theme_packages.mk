@@ -12,6 +12,7 @@ PRODUCT_PACKAGES += \
     SettingsDark \
     SettingsIntelligenceDark \
     SystemDark \
+    SystemUiDark \
     UpadaterDark \
     WellbeingDark
 
@@ -21,6 +22,7 @@ PRODUCT_PACKAGES += \
     SettingsBlack \
     SettingsIntelligenceBlack \
     SystemBlack \
+    SystemUiBlack \
     UpadaterBlack \
     WellbeingBlack
 
@@ -30,6 +32,7 @@ PRODUCT_PACKAGES += \
     SettingsBlueNight \
     SettingsIntelligenceBlueNight \
     SystemBlueNight \
+    SystemUiBlueNight \
     UpadaterBlueNight \
     WellbeingBlueNight
 
@@ -39,6 +42,7 @@ PRODUCT_PACKAGES += \
     SettingsBlackSupreme \
     SettingsIntelligenceBlackSupreme \
     SystemBlackSupreme \
+    SystemUiBlackSupreme \
     UpadaterBlackSupreme \
     WellbeingBlackSupreme
 
