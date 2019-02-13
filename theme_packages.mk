@@ -1,6 +1,10 @@
 # Theme vendor extension
 include vendor/themes/themes/Android.mk
 
+# Themes Light
+PRODUCT_PACKAGES += \
+    GBoardLight
+
 # Themes Dark
 PRODUCT_PACKAGES += \
     GBoardDark \
