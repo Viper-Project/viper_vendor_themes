@@ -14,4 +14,7 @@
     <color name="qs_tile_icon_active">#7f7f7f</color>
     <color name="qs_tile_icon_inactive">#cccccc</color>
 
+    <!-- Suggestion cards -->
+    <color name="suggestion_card_background">#ff373737</color>
+
 </resources>
