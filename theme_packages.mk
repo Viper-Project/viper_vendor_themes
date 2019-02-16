@@ -59,6 +59,11 @@ PRODUCT_PACKAGES += \
     QStilesTearDrop \
     QStilesDoubleCircle
 
+# Switch themes
+PRODUCT_PACKAGES += \
+    SwitchMD2 \
+    SwitchOnePlus
+
 # Fonts
 PRODUCT_PACKAGES += \
     ViperFonts
