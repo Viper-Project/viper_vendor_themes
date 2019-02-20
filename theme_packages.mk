@@ -62,7 +62,8 @@ PRODUCT_PACKAGES += \
 # Switch themes
 PRODUCT_PACKAGES += \
     SwitchMD2 \
-    SwitchOnePlus
+    SwitchOnePlus \
+    SwitchTelegram
 
 # Fonts
 PRODUCT_PACKAGES += \
